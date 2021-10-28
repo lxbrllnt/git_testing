@@ -1,2 +1,3 @@
 local_repo_1: eine zweite nicht ignorierte datei
 local_repo_3: eine änderung von mir
+local_repo_1: letztes für heute
